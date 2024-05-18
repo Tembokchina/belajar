@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    background-color: black;
+    height: 100vh;
+    color: #ffffff;
+    display: flex;
+    flex-direction: column;
+}
+
+.one {
+    width: 50px;
+    height: 50px;
+    background-color: red;
+}
+
+.two {
+    width: 50px;
+    height: 50px;
+    background-color: yellow;
+}
+
+.three {
+    width: 50px;
+    height: 50px;
+    background-color: green;
+}

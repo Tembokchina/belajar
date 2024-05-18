@@ -1,0 +1,11 @@
+TUTORIAL GITHUB
+1. Buat repository di GITHUB
+2. Buka terminal (ctrl + `)
+3. Ketik git remote add origin ...
+git remote add origin https://github.com/Tembokchina/belajar.git
+
+display flex
+> justify-content (horizontal/kanan kiri)
+> align-items (vertikal/atas bawah)
+> flex-direction (row/hori | column/verti)
+
